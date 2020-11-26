@@ -3,7 +3,7 @@
 
 title: NixPen 5.0
 url: "https://namin01379.github.io/sample_origin/"
-
+baseurl:
 google_analytics_key:
 show_full_navigation: true
 
@@ -12,8 +12,6 @@ google_analytics_id: UA-80265650-1
 
 plugins:
   - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
 
 exclude:
   - Gemfile
@@ -38,7 +36,6 @@ defaults:
       path: ""
       type: "docs"
     values:
-      seo:
         type: Article
       _comments:
         category: Group navigation links with this field
