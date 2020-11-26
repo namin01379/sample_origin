@@ -2,8 +2,8 @@
 # Site
 
 title: NixPen 5.0
-url: "https://namin01379.github.io/samplepage_1/"
-baseurl: 
+url: "https://namin01379.github.io/sample_origin/"
+baseurl: "https://namin01379.github.io/sample_origin/"
 google_analytics_key:
 show_full_navigation: true
 
